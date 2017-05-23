@@ -19,12 +19,12 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "https://github.com/jpstevens/circleci.git"
+    "url": "https://ghe.matterport.com/matterport/circleci.git"
   },
   "bugs": {
-    "url": "https://github.com/jpstevens/circleci/issues"
+    "url": "https://ghe.matterport.com/matterport/circleci/issues"
   },
-  "homepage": "https://github.com/jpstevens/circleci",
+  "homepage": "https://ghe.matterport.com/matterport/circleci",
   "devDependencies": {
     "grunt-coffeelint": "0.0.10",
     "grunt-contrib-watch": "^0.6.1",
